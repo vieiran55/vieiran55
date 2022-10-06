@@ -10,15 +10,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiran55&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="viz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="viz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="viz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="viz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="viz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="viz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="viz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="viz-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="viz-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="viz-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 
-  <img align="right" alt="viz-pic" height="30" width="40" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
+  <img align="center" alt="viz-pic" height="30" width="40" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
 </div>
   
   ##
