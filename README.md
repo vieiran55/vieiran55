@@ -1,7 +1,7 @@
 ### Salveee, Beeem Vindoo! Sou o Antonio! 👋
 
 <div>
-  <img align="center" alt="viz-pic" height="30" width="40" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
+  <img align="center" alt="viz-pic" height="480" width="200" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
 </div>
 
 - 🔭 Hoje trabalho como Suporte Técnico N2
