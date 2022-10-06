@@ -4,11 +4,11 @@
   <img align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
 </div>
 
-<p margin-top"10px">
+<ul margin-top"10px">
 - 🔭 Hoje trabalho como Suporte Técnico N2
 - 🌱 Estudando React/Typscript
 - 📫 Contate-me no email: vieira.n55@gmail.com
-</p>
+</ul>
 
 <div align="center">
   <a href="https://github.com/vieiran55">
@@ -24,6 +24,8 @@
   <img align="center" alt="viz-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="viz-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="viz-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="viz-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  
 </div>
   
   ##
