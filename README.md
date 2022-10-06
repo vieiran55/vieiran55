@@ -1,7 +1,7 @@
 <h1 align="center">### Salveee, Beeem Vindoo! Sou o Antonio! 👋</h1>
 
 <div align="center">
-  <img margin="10" align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
+  <img margin="10" align="center" alt="viz-pic" height="200" width="480" style="margin-bottom: 30px;" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
 </div>
 
 <ul>
