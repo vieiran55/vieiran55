@@ -5,9 +5,9 @@
 </div>
 
 <ul margin-top"10px">
-- 🔭 Hoje trabalho como Suporte Técnico N2
-- 🌱 Estudando React/Typscript
-- 📫 Contate-me no email: vieira.n55@gmail.com
+<li>🔭 Hoje trabalho como Suporte Técnico N2</li>
+<li>🌱 Estudando React/Typscript</li>
+<li>📫 Contate-me no email: vieira.n55@gmail.com</li>
 </ul>
 
 <div align="center">
