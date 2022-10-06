@@ -1,10 +1,10 @@
 <h1 align="center">### Salveee, Beeem Vindoo! Sou o Antonio! 👋</h1>
 
 <div align="center">
-  <img align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
+  <img margin="10" align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
 </div>
 
-<ul margin-top"10px">
+<ul>
 <li>🔭 Hoje trabalho como Suporte Técnico N2</li>
 <li>🌱 Estudando React/Typscript</li>
 <li>📫 Contate-me no email: vieira.n55@gmail.com</li>
