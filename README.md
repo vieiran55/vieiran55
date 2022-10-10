@@ -6,7 +6,7 @@
 
 <ul>
 <li>🔭 Hoje trabalho como Suporte Técnico N2</li>
-<li>🌱 Estudando React/Typscript</li>
+<li>🌱 Estudando React/Typescript</li>
 <li>📫 Contate-me no email: vieira.n55@gmail.com</li>
 </ul>
 
