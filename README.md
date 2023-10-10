@@ -1,4 +1,4 @@
-![image]()<h1 align="center">### Salveee, Beeem Vindoo!👋 ###</h1>
+<h1 align="center">### Salveee, Beeem Vindoo!👋 ###</h1>
 
 <div align="center">
   <img margin="10" align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
@@ -8,7 +8,7 @@
 <li>🔭 Sou um Desenvolvedor FullStack</li>
 <li>🌱 Minhas Principais Skills são: JavaScript, TypeScript, Node.Js, Python, React.</li>
 <li>🖼️ Contate-me no email: vieira.n55@gmail.com</li>
-<li href="https://antoniovieiradev.vercel.app">📫 Meu Portifólio</li>
+<li>📫 Meu Portifólio <a href="https://antoniovieiradev.vercel.app"> </li>
 </ul>
 
 <div align="center">
