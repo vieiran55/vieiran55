@@ -8,7 +8,7 @@
 <li>🔭 Sou um Desenvolvedor FullStack</li>
 <li>🌱 Minhas Principais Skills são: JavaScript, TypeScript, Node.Js, Python, React.</li>
 <li>📫 Contate-me no email: vieira.n55@gmail.com</li>
-<li>🖼️ Meu Portifólio antoniovieiradev.vercel.app </li>
+<li>🖼️ Meu Portifólio: antoniovieiradev.vercel.app </li>
 </ul>
 
 <div align="center">
