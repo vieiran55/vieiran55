@@ -1,13 +1,14 @@
-<h1 align="center">### Salveee, Beeem Vindoo!👋 ###</h1>
+![image](https://github.com/vieiran55/vieiran55/assets/102639150/2ee07b33-8293-42dc-b261-d8417a6a59d0)<h1 align="center">### Salveee, Beeem Vindoo!👋 ###</h1>
 
 <div align="center">
   <img margin="10" align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
 </div>
 
 <ul>
-<li>🔭 Hoje trabalho como Suporte Técnico N2</li>
-<li>🌱 Estudando React/Typescript</li>
-<li>📫 Contate-me no email: vieira.n55@gmail.com</li>
+<li>🔭 Sou um Desenvolvedor FullStack</li>
+<li>🌱 Minhas Principais Skills são: JavaScript, TypeScript, Node.Js, Python, React.</li>
+<li>🖼️ Contate-me no email: vieira.n55@gmail.com</li>
+<li href="https://antoniovieiradev.vercel.app">📫 Meu Portifólio</li>
 </ul>
 
 <div align="center">
