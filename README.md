@@ -10,12 +10,6 @@
 <li>📫 Contate-me no email: vieira.n55@gmail.com</li>
 <li>🖼️ Meu Portifólio: antoniovieiradev.vercel.app </li>
 </ul>
-
-<div align="center">
-  <a href="https://github.com/vieiran55">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieiran55&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiran55&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div style="display: inline_block" align="center"><br>
 
