@@ -5,11 +5,7 @@
   <a href="https://www.linkedin.com/in/antoniov55" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
   
-<h1 align="center">### Salveee, Beeem Vindoo!👋 ###</h1>
-
-<div align="center">
-  <img margin="10" align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
-</div>
+<h1 align="center">###  Beeem Vindoo!👋 ###</h1>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
