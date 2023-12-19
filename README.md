@@ -35,6 +35,7 @@
   <img align="center" alt="viz-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="viz-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
 </div>
+</br>
   
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vieiran55&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vieiran55&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vieiran55&theme=nord_dark) |
