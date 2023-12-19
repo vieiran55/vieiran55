@@ -11,12 +11,31 @@
   <img margin="10" align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
 </div>
 
-<ul>
-<li>🔭 Sou um Desenvolvedor FullStack</li>
-<li>🌱 Minhas Principais Skills são: C#, .Net, JavaScript, TypeScript, Node.Js, Python, React.</li>
-<li>📫 Contate-me no email: vieira.n55@gmail.com</li>
-<li>🖼️ Meu Portifólio: antoniovieiradev.vercel.app </li>
-</ul>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+        <img margin="10" align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
+    </td>
+    <td style="border: 0";>
+      <p>
+        💻 🔭 Sou um Desenvolvedor FullStack
+      </p>
+      <p>
+        🌱 Minhas Principais Skills são: C#, .Net, JavaScript, TypeScript, Node.Js, Python, React.
+      </p>
+      <h3>Other places you can find me</h3>
+      <ul>
+        <li>
+          📷 <a href="https://antoniovieiradev.vercel.app">Meu Portifólio</a>
+        </li>
+        <li>
+          📬 <a href=mailto:vieira.n55@gmail.com>Contact-me on email</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
   
 <div style="display: flex; justify-content: space-between;" align="center"> 
   <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
