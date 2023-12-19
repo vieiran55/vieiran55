@@ -10,7 +10,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-        <img margin="10" align="center" alt="viz-pic" height="512" width="512" src="https://github.com/vieiran55/files_media/blob/main/SpartanDev.png">
+        <img margin="10" align="center" alt="viz-pic" height="340" width="400" src="https://github.com/vieiran55/files_media/blob/main/SpartanDev.png">
     </td>
     <td style="border: 0";>
       <p>
