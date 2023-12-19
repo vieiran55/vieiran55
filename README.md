@@ -10,7 +10,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-        <img margin="10" align="center" alt="viz-pic" height="200" width="480" src="https://cdn.discordapp.com/attachments/703646137663619152/989939908179288134/yodinha.gif">
+        <img margin="10" align="center" alt="viz-pic" height="512" width="512" src="https://github.com/vieiran55/files_media/blob/main/SpartanDev.png">
     </td>
     <td style="border: 0";>
       <p>
