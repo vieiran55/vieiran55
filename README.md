@@ -11,10 +11,7 @@
 <li>🖼️ Meu Portifólio: antoniovieiradev.vercel.app </li>
 </ul>
   
-<div style="display: inline_block" align="center"><br>
-
-  
-  
+<div style="display: flex; justify-content: space-between;" align="center"> 
   <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -29,13 +26,12 @@
   <img align="center" alt="viz-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="viz-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="viz-Sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="viz-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  
+  <img align="center" alt="viz-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
 </div>
   
   ##
   
-  <div>
+  <div style="display: flex; justify-content: space-around;">
   <a href="https://instagram.com/al_vieirah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/catar_sy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatovieira.n55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
