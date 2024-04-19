@@ -35,9 +35,9 @@
   
 <div style="display: flex; justify-content: space-between;" align="center"> 
   <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/java-original.svg">
-  <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/spring-original.svg">
-  <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="viz-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="viz-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="viz-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="viz-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="viz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
