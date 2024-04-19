@@ -17,7 +17,7 @@
         💻 🔭 Sou um Desenvolvedor FullStack
       </p>
       <p>
-        🌱 Minhas Principais Skills são: C#, .Net, JavaScript, TypeScript, Node.Js, Python, React.
+        🌱 Minhas Principais Skills são: JavaScript, TypeScript, Node.Js, Java, Python, React . 
       </p>
       <h3>Other places you can find me</h3>
       <ul>
